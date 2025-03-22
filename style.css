@@ -1,14 +1,38 @@
 /* fonts */
+h1 {
+    font-size: 60px;
+}
+
+#main_image {
+    width: 100%;
+}
+h1 {
+    font-family: 'Classic, sans-serif';
+}
+
+h1 {
+    font-style: italic;
+}
 
 
 /* site colour palette */
 :root {
-    --color: 
+    --color: RGB(240, 214, 187)
 }
-
+h1 { 
+    color: #F6F7EE; 
+    color:#EE2E62; 
+    color:#2D9FAD; 
+    Color: #6C698D; 
+    color: #5E1E94; 
+}
 
 /* generic style reset */
 *{
+.icon{
+    margin-top: 40px;
+    width: 130px;
+}
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
